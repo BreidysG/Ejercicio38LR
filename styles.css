@@ -144,7 +144,7 @@ button:hover {
     .container {
         padding: 15px;
         width: 95%;
-        transform: scale(0.8);
+        transform: scale(0.5);
     }
     .container h1{
         font-size: 22px;
